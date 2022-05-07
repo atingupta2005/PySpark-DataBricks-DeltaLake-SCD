@@ -1,5 +1,5 @@
-git checkout master
-git pull github-origin master
+git checkout main
+git pull github-origin main
 git add *
 git commit -am "-"
-git push github-origin master
+git push github-origin main
